@@ -4,7 +4,7 @@ Welcome to the C Programming Tutorial repository! This repository aims to provid
 
 You can watch this video:https://www.youtube.com/watch?v=9VE7p-he4fA&pp=ygUaYyBsYW5ndWFnZSBzZXR1cCBpbiB2c2NvZGU%3D
 
-Setting Up C on Visual Studio
+#Setting Up C on Visual Studio
 Visual Studio is a popular integrated development environment (IDE) that provides a comprehensive toolset for C and C++ development. Setting up C programming on Visual Studio is a straightforward process that involves a few steps. In this tutorial, we will guide you through the process of setting up C programming on Visual Studio.
 
 Step 1: Download Visual Studio
